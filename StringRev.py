@@ -1,7 +1,7 @@
 #PROGRAM TO REVERSE ALPHABETS LEAVING SPECIAL CHARACTERS AT SAME POSITIONS
-str1=input()
-al=[]
-sc={}
+str1=input()#Reading the string
+al=[]# Creating a list to store alphabets
+sc={}#Creating a dictonary to store special characters.
 c=0
 # storing alphabets in a list
 #storing special characters in dictonary along with their indexes
